@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.alberto.directoriomedico.MainActivity">
+
+    <item
+        android:id="@+id/action_medico"
+        android:orderInCategory="100"
+        android:icon="@drawable/doc_icon1"
+        android:title="Medicos"
+        app:showAsAction="ifRoom" />
+</menu>
